@@ -9,7 +9,7 @@ shooting_points:
   - target_id: 1
     name: FixedBucket1
     x: 0.56000000000000005
-    y: 2
+    y: 1.6499999999999999
     yaw: -1.5708
     target_velocity: 3
     memo: Fixed bucket 1 shooting spot
