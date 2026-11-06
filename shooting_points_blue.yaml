@@ -1,8 +1,8 @@
 shooting_points:
   - target_id: 0
     name: StartZone
-    x: -4.6506999999999996
-    y: 2.0438999999999998
+    x: -4.7405999999999997
+    y: 1.9689000000000001
     yaw: -1.5708
     target_velocity: 0
     memo: Start zone default position
@@ -44,9 +44,9 @@ shooting_points:
   - target_id: 6
     name: Flag
     x: 0.58999999999999997
-    y: 1.75
+    y: 1.6499999999999999
     yaw: -1.5708
-    target_velocity: 7.25
+    target_velocity: 7.2000000000000002
     memo: Flag shooting spot
   - target_id: 7
     name: MovingBucket
