@@ -8,9 +8,9 @@ shooting_points:
     memo: Start zone default position
   - target_id: 1
     name: FixedBucket1
-    x: 0.51500000000000001
-    y: -1.6000000000000001
-    yaw: 1.5882000000000001
+    x: 0.54000000000000004
+    y: -1.5800000000000001
+    yaw: 1.5708
     target_velocity: 3
     memo: Fixed bucket 1 shooting spot
   - target_id: 2
@@ -18,7 +18,7 @@ shooting_points:
     x: 2.3500000000000001
     y: -0.80000000000000004
     yaw: 1.5708
-    target_velocity: 3
+    target_velocity: 2.8500000000000001
     memo: Fixed bucket 2 shooting spot
   - target_id: 3
     name: FixedBucket3
@@ -43,9 +43,9 @@ shooting_points:
     memo: Desk 2 shooting spot
   - target_id: 6
     name: Flag
-    x: 0.51500000000000001
+    x: 0.55000000000000004
     y: -1.8
-    yaw: 1.5882000000000001
+    yaw: 1.5708
     target_velocity: 7.1500000000000004
     memo: Flag shooting spot
   - target_id: 7
