@@ -16,28 +16,28 @@ shooting_points:
   - target_id: 2
     name: FixedBucket2
     x: 2.3500000000000001
-    y: -0.90000000000000002
+    y: -0.80000000000000004
     yaw: 1.5708
     target_velocity: 3
     memo: Fixed bucket 2 shooting spot
   - target_id: 3
     name: FixedBucket3
     x: -1.28
-    y: -0.90000000000000002
+    y: -0.80000000000000004
     yaw: 1.5708
     target_velocity: 3
     memo: Fixed bucket 3 shooting spot
   - target_id: 4
     name: Desk1
     x: 3.6398000000000001
-    y: -0.81669999999999998
+    y: -0.80000000000000004
     yaw: 1.5708
     target_velocity: 0
     memo: Desk 1 shooting spot
   - target_id: 5
     name: Desk2
-    x: -2.0063
-    y: -0.81669999999999998
+    x: -2.1000000000000001
+    y: -0.80000000000000004
     yaw: 1.5708
     target_velocity: 0
     memo: Desk 2 shooting spot
