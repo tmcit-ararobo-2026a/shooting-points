@@ -46,7 +46,7 @@ shooting_points:
     x: 0.51500000000000001
     y: -1.6992
     yaw: 1.5882000000000001
-    target_velocity: 7.0499999999999998
+    target_velocity: 7.1500000000000004
     memo: Flag shooting spot
   - target_id: 7
     name: MovingBucket
