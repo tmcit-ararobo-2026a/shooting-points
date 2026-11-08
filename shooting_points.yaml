@@ -9,7 +9,7 @@ shooting_points:
 - target_id: 1
   name: FixedBucket1
   x: 0.515
-  y: -1.9
+  y: -1.6
   yaw: 1.5882
   target_velocity: 3.0
   memo: Fixed bucket 1 shooting spot
@@ -44,7 +44,7 @@ shooting_points:
 - target_id: 6
   name: Flag
   x: 0.515
-  y: -1.6992
+  y: -1.8
   yaw: 1.5882
   target_velocity: 7.15
   memo: Flag shooting spot
